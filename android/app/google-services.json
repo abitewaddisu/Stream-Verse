@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "990606458570",
+    "project_id": "streamverse-fd7f2",
+    "storage_bucket": "streamverse-fd7f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990606458570:android:b5963032d404787615fe33",
+        "android_client_info": {
+          "package_name": "com.example.stream_verse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKstrCoE990tQPQ_rqnwCobWGc_IkYUIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
